@@ -24,6 +24,6 @@ contract MyToken is ERC20 {
 
 /*
 ToDo 
-- Deployment on Main Net
+- Deployment on Main Net (add metamask, ... see last minuits of tutorial https://youtu.be/ZLFiGHIxS1c)
 - Same project on truffle (Binanace and Ethereum)
 */
